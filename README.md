@@ -53,9 +53,15 @@ Model Waveform
 
 Program
 
+<img width="510" height="728" alt="image" src="https://github.com/user-attachments/assets/30114a09-7d7b-4fb2-953e-50e391a789c0" />
+
 OUTPUT WAVEFORM
 
+<img width="1524" height="982" alt="image" src="https://github.com/user-attachments/assets/5eb86bcb-1e19-46b9-b343-02f57ff4ef05" />
+
 TABULATION
+
+![WhatsApp Image 2025-08-21 at 21 14 16_453f446c](https://github.com/user-attachments/assets/c29fcdee-58ab-4ef5-b3b6-db2bfb32b8a4)
 
 
 
